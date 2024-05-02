@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 help.txt
-/dist1
+/dist
 
 # testing
 /coverage
